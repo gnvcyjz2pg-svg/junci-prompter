@@ -1,0 +1,1 @@
+import{s as e}from"./storage-D6zmKeZ6.js";function t(t,n={}){let r=t;if(typeof r==`string`&&r.startsWith(`/api/`)){let i=(e.get().apiBackend||``).trim();i.endsWith(`/`)&&(i=i.slice(0,-1)),i&&(r=i+t,n={mode:`cors`,credentials:`omit`,...n})}return fetch(r,n)}function n(){return(e.get().apiBackend||``).trim()}export{n,t};

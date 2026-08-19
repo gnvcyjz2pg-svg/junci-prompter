@@ -1,0 +1,1 @@
+.animate-slide-up{animation:.25s ease-out slideUp}@keyframes slideUp{0%{opacity:0;transform:translateY(100%)}to{opacity:1;transform:translateY(0)}}.line-clamp-4[data-v-947c8c49]{-webkit-line-clamp:4;-webkit-box-orient:vertical;display:-webkit-box;overflow:hidden}.line-clamp-3[data-v-947c8c49]{-webkit-line-clamp:3;-webkit-box-orient:vertical;display:-webkit-box;overflow:hidden}
